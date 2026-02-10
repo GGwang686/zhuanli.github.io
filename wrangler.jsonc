@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "zhuanli",
+  "name": "cnpia",
   "compatibility_date": "2024-08-27",
   "assets": {
     "directory": "./"
